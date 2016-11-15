@@ -1,0 +1,24 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "starterpack with gulp, browsersync and bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heense/Bootstrap-4-with-Gulp-and-Browsersync.git"
+  },
+  "author": "heense",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heense/Bootstrap-4-with-Gulp-and-Browsersync/issues"
+  },
+  "homepage": "https://github.com/heense/Bootstrap-4-with-Gulp-and-Browsersync#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
